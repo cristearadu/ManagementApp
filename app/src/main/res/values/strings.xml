@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ManagementApp</string>
+    <string name="ticket">Ticket:</string>
+    <string name="type">Type:</string>
+    <string name="description">Description:</string>
+</resources>

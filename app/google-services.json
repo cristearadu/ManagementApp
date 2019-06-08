@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358912685021",
+    "firebase_url": "https://managementapp-b2580.firebaseio.com",
+    "project_id": "managementapp-b2580",
+    "storage_bucket": "managementapp-b2580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358912685021:android:8205d7ff89f94867",
+        "android_client_info": {
+          "package_name": "com.examplee.radu.managementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358912685021-0iutq96u6qamnikgeptppgvsft0a2ji4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examplee.radu.managementapp",
+            "certificate_hash": "f82afbdf4f89a6881d7e99831a571131bb4a513b"
+          }
+        },
+        {
+          "client_id": "358912685021-cbnno4fcgu47dka8mp9slgrf9fo3eis9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGHfMtY5aPxGseqdzvd3yqxctCRZoAx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358912685021-cbnno4fcgu47dka8mp9slgrf9fo3eis9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
